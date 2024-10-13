@@ -5,7 +5,7 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Fun fact**: I love playing chess and story mode games in my free time.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
-![My Image](me.png) 
+<img src="me.png" alt="My Image" width="300"/>
 
 ## GitHub Profile
 You can view my personalized GitHub profile [here](https://github.com/aleng1).
